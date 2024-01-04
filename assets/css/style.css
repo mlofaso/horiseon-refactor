@@ -9,6 +9,7 @@ body {
 }
 
 /* HEADER STYLES */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* hero banner */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,6 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* main content */
 
 .services {
     margin-bottom: 20px;
@@ -122,6 +127,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Styles */
 .footer {
     padding: 30px;
     clear: both;
