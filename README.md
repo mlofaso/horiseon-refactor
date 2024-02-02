@@ -2,7 +2,7 @@
 
 ## Description
 
-Challenge for first module of bootcamp
+Bootcamp Module 1 Challenge
 
 ## Screen shots
 
