@@ -2,7 +2,7 @@
 
 ## Description
 
-Bootcamp Module 1 Challenge
+Module 1 Challenge
 
 ## Screen shots
 
